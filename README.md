@@ -85,35 +85,7 @@ The robot uses a modular approach with:
 - Servo motor for sensor positioning
 - Dual power supply system (AA batteries for logic, 18650 for motors)
 
-## Installation and Usage
 
-### Hardware Setup
-1. Assemble the robot chassis with wheels and motors
-2. Mount the Arduino Uno and sensor shield
-3. Connect components according to the circuit diagram
-4. Install batteries and ensure proper power connections
-
-### Software Setup
-1. Install Arduino IDE
-2. Install required libraries (Servo.h, NewPing.h)
-3. Upload the obstacle avoidance code to Arduino Uno
-4. Power on the robot using the switches
-
-### Operation Instructions
-1. Place the robot in an open area with obstacles
-2. Turn on the power switches
-3. The robot will automatically start moving and avoiding obstacles
-4. Monitor the robot's behavior and navigation patterns
-
-## Project Objectives
-1. **Primary Goal:** Create a simple autonomous robot capable of obstacle detection and avoidance
-2. **Technical Goal:** Implement decision-making logic based on sensor data for robot navigation
-3. **Educational Goal:** Provide practical understanding of hardware-software integration in robotics
-
-## Project Benefits
-1. **Knowledge Expansion:** Understanding basic robotics and automation systems
-2. **Problem-Solving Skills:** Developing logical thinking and technical troubleshooting abilities
-3. **Foundation Building:** Creating a base for more complex autonomous robotics projects
 
 ## Documentation
 - **Project Presentation:** [View Documentation](https://www.canva.com/design/DAGp-UWrJf4/uimw1KvMuyRH1g1h7Gnfjw/view?utm_content=DAGp-UWrJf4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7e94a097dd)
